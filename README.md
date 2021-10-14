@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on Accenture.
 - 🌱 I’m currently learning Front-end (ReactJs/ReactNative)
 - 📫 How to reach me: Linkedin (https://www.linkedin.com/in/israel-batista)
+- 💬 Ask me about **JavaScript, HTML, CSS, Soccer**
+- ⚡ Fun fact: Flamenguista 🔴⚫️ | 🔟 e a faixa.
 <!--
 **Israelfer/Israelfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
