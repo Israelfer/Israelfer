@@ -1,6 +1,7 @@
-### Hi there 👋
-- 🌱 I’m currently learning Front-end (react)
-- ⚡ Fun fact: best fifa player on my street
+### Hi there, I'm Israel Batista 👋
+- 🔭 I’m currently working on Accenture.
+- 🌱 I’m currently learning Front-end (ReactJs/ReactNative)
+- - 📫 How to reach me: on linkedin (https://www.linkedin.com/in/israel-batista)
 <!--
 **Israelfer/Israelfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
