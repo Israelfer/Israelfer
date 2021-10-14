@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Israel Batista</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Front-end Developer</h3>
 
 - 🔭 I’m currently working on Accenture.
 - 🌱 I’m currently learning Front-end (ReactJs/ReactNative)
