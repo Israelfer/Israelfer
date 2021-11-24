@@ -7,7 +7,7 @@
 - 💬 Ask me about **JavaScript, HTML, CSS and Soccer**
 - ⚡ Fun fact: Flamenguista 🔴⚫️
 
-![Snake animation](https://github.com/israelfer/israelfer/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Israelfer/Israelfer/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Israelfer/Israelfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
