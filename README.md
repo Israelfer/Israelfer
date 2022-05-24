@@ -1,11 +1,11 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Israel Batista</h1>
-<h3 align="center">A Front-end Developer</h3>
+<h1 align="center">Olá, pessoal! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Israel Batista</h1>
+<h3 align="center">Sou Desenvolvedor Front-end</h3>
 
 🚀   Estou buscando oportunidade como desenvolvedor Front-end
-💜   Buscando colaborar com pessoas a entrarem na área de Tecnologia
-😊   Posso te ajudar com HTML, CSS, JavaScript
-💻   Minha stack: ReactJS e Angular
-💬   Sobre mim: Curto tecnologias desde sempre, nas horas vagas curto futebol ⚽🎮 e jogar com amigos!
+<br/>💜   Buscando colaborar com pessoas a entrarem na área de Tecnologia
+<br/>😊   Posso te ajudar com HTML, CSS, JavaScript
+<br/>💻   Minha stack: ReactJS e Angular
+<br/>💬   Sobre mim: Curto tecnologias desde sempre, nas horas vagas curto futebol ⚽🎮 e jogar com amigos!
 
 ##
 
