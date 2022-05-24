@@ -1,11 +1,11 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Israel Batista</h1>
 <h3 align="center">A Front-end Developer</h3>
 
-- 🔭 I’m currently working on Accenture Brasil
-- 🌱 I’m currently learning Front-end (ReactJs/ReactNative)
-- 📫 How to reach me: Linkedin (https://www.linkedin.com/in/israel-batista)
-- 💬 Ask me about **JavaScript, HTML, CSS and Soccer**
-- ⚡ Fun fact: Flamenguista 🔴⚫️
+🚀   Estou buscando oportunidade como desenvolvedor Front-end
+💜   Buscando colaborar com pessoas a entrarem na área de Tecnologia
+😊   Posso te ajudar com HTML, CSS, JavaScript
+💻   Minha stack: ReactJS e Angular
+💬   Sobre mim: Curto tecnologias desde sempre, nas horas vagas curto futebol ⚽🎮 e jogar com amigos!
 
 ##
 
