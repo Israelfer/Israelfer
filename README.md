@@ -1,11 +1,15 @@
-<h1 align="center">Olá, pessoal! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Israel Batista</h1>
-<h3 align="center">Sou Desenvolvedor Front-end</h3>
+<h1 align="center">Olá, pessoal <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou Israel Batista</h1>
+<h3 align="center">Desenvolvedor Front-end</h3>
 
 🚀   Estou buscando oportunidade como desenvolvedor Front-end
 <br/>💜   Buscando colaborar com pessoas a entrarem na área de Tecnologia
 <br/>😊   Posso te ajudar com HTML, CSS, JavaScript
 <br/>💻   Minha stack: ReactJS e Angular
 <br/>💬   Sobre mim: Curto tecnologias desde sempre, nas horas vagas curto futebol ⚽🎮 e jogar com amigos!
+<br>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/israel-batista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ##
 
@@ -24,10 +28,6 @@
   <img align="center" alt="Israel-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
   <img align="center" alt="Israel-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Israel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div>
-<br>
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/israel-batista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
